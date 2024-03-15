@@ -11,7 +11,7 @@ from telegram.ext import (
 
 import database
 
-telegram_token = "6861771405:AAHcGar4YXikXgIfeh0cKU_6-_Rh2BHNVhA"
+telegram_token = "7019762310:AAE69x_kt3WjBXsqtmyRPR27TkQPcFGIip8"
 yandex_cloud_catalog = "b1gmasb9gep76ibr32ga"
 yandex_gpt_api_key = "AQVN2kypilSivP_FGODoaobvzAmweoeI4l0LKsks"
 yandex_gpt_model = "yandexgpt-lite"
